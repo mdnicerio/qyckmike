@@ -1,0 +1,554 @@
+{
+  "settings": {
+    "name": "wwwdotbitqyckronaqdotga",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": true
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 63,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1a",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/top-header-1400x527.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#c1c0c0",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=_ok7TVaHhvE&t=23s",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true,
+              "aspectratio": "16:9"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#219bd2",
+              "font-size": "30px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Bitqyck . Bitqy",
+          "meta": "www.qyckbit.com | www.bitqy.org&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=EUItToYt5JQ&list=PLE0Hh7lLa7ER7oF80iDbSAua6EhOqy6g8&index=1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-12-32-58.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@THEME_PATH@/components/_images/image1.jpg",
+                "caption": "www.yocoinphilippines.net",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=T_h9vf9Yyl4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-10-59-25.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@THEME_PATH@/components/_images/image1.jpg",
+                "caption": "www.yocoinphilippines.net",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=T3inPt0xeRA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-10-59-49.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@THEME_PATH@/components/_images/image1.jpg",
+                "caption": "www.yocoinphilippines.net",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=FGYgekFAujA&list=PLE0Hh7lLa7ER7oF80iDbSAua6EhOqy6g8&index=5",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-13-10-41.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@THEME_PATH@/components/_images/image1.jpg",
+                "caption": "www.yocoinphilippines.net",
+                "active": false
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Corporate",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/QJliRdCzsY4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-07-16-04-01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Keith Carey",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=jr-KJ0K_5ho",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-25-23-18-29.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Corporate",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=QbZpBWaqf7c",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-04-15-12-19.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Bitqyck Milpitas",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/7FMMLQum8xw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-04-15-32-26.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Corporate",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=mux937xqqQA&t=51s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-03-25.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Bruce Bise",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=75pUY6pIxUw&t=30s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-03-51.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Bruce Bise",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=NMd66hbhXnM&t=48s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-04-21.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Savun Phon",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=NMd66hbhXnM&t=48s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-04-44.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#219bd2",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#219bd2",
+              "font-size": "30px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Bitqyck Business Presentation",
+          "meta": "Download it here:&nbsp;http://bit.ly/2myu4lz"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aZsgVdUTURE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-17-11-18-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#219bd2",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery4-1o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-10",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c0c0",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#219bd2",
+            "showMeta": true
+          },
+          "title": "REGISTER NOW FOR FREE",
+          "meta": "www.bitqyck-723239.ga"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1g",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mike-footer-1400x422.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    }
+  }
+}
